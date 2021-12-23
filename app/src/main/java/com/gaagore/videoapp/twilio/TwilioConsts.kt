@@ -1,0 +1,6 @@
+package com.gaagore.videoapp.twilio
+
+object Consts {
+    const val TWILIO_ACCESS_TOKEN =
+        "eyJjdHkiOiJ0d2lsaW8tZnBhO3Y9MSIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJpc3MiOiJTS2Y4MTY5NDhkMGY1NzllMWUyMTk2YWJmNDc5NzI1ZjQyIiwiZXhwIjoxNjM5NTA0NjA5LCJncmFudHMiOnsiaWRlbnRpdHkiOiJsZXZhbiIsInZpZGVvIjp7InJvb20iOiJ0ZXN0cm9vbSJ9fSwianRpIjoiU0tmODE2OTQ4ZDBmNTc5ZTFlMjE5NmFiZjQ3OTcyNWY0Mi0xNjM5NTAxMDU2Iiwic3ViIjoiQUMzMWM3M2JjYzkwMDExMTU5Mjc5YzQ4MDc5ZTVlODliOCJ9.DKiolzMu2yqxVKRqzx21Rznx3UXg3NueMU6-Wpqb-9k"
+}
